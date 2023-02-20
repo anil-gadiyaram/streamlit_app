@@ -45,9 +45,7 @@ streamlit.dataframe(fruityvice_normalized)
 
 
 #dont run anything after here
-stremlit.stop()
-
-
+streamlit.stop()
 
 
 
